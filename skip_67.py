@@ -1,1 +1,1 @@
-print("skip_67 :: version 1")
+print("skip_67 :: version 2")
