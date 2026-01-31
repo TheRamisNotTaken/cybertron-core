@@ -1,0 +1,1 @@
+print("skip_67 :: version 1")
